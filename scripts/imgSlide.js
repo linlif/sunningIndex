@@ -16,5 +16,5 @@ function showBrandList(index){
   var $rollObj = $("#jnBrandList");
   var rollWidth = $rollObj.find("li").outerWidth();
   rollWidth = rollWidth * 4;//一个版面的宽度
-  $rollObj.stop(true, false).animate({left : -rollWidth*index}, 1000);
+  $rollObj.stop(true, false).animate({left : -rollWidth*index}, 800);
 }
