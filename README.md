@@ -4,3 +4,6 @@
 - 点击banner或banner标题可跳转到对应页面
 - 点击【品牌活动】的tab，商品可横向滚动
 - 搜索框支持回车键检索（此处仅弹出一个alert）
+
+
+具体效果请点击链接：https://linlif.github.io/sunningIndex/index.html
