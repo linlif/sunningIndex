@@ -6,4 +6,5 @@
 - 搜索框支持回车键检索（此处仅弹出一个alert）
 
 
-具体效果请点击链接：<a href="https://linlif.github.io/sunningIndex/index.html" target="_blank">
+具体效果请点击链接：<a href="https://linlif.github.io/sunningIndex/index.html" target="_blank">https://linlif.github.io/sunningIndex/index.html</a>
+
